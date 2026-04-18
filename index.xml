@@ -6,8 +6,15 @@
     <description>Recent content on Migle Skystimaite Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 00:46:18 +0300</lastBuildDate>
     <atom:link href="https://miglesky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://miglesky.github.io/about/</link>
+      <pubDate>Sun, 19 Apr 2026 00:46:18 +0300</pubDate>
+      <guid>https://miglesky.github.io/about/</guid>
+      <description>&lt;p&gt;Labas! Aš esu Miglė Skystimaitė. Tai mano asmeninis tinklaraštis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pirmas postas</title>
       <link>https://miglesky.github.io/posts/pirmas-postas/</link>
